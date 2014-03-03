@@ -1,0 +1,82 @@
+{
+    words: [
+        {
+            word: "你好",
+            meaning: [ "hello" ],
+            pronunciation: [ {ipa: "nei˨˧ hoʊ˨˥", where: "Hong Kong"} ]
+        },
+        {
+            word: "再見",
+            meaning: [ "good-bye " ],
+            pronunciation: [ {ipa: "tsɔːi˧˧ kiːn˧˧", where: "Hong Kong"} ]
+        },
+        {
+            word: "拜拜",
+            meaning: [ "bye-bye " ],
+            pronunciation: [ {ipa: "pɑːi˥˥ pɑːi˧˧", where: "Hong Kong"} ]
+        },
+        {
+            word: "唔該",
+            meaning: [ "please " ],
+            pronunciation: [ {ipa: "m̩˨˩ kɔːi˥˥", where: "Hong Kong"} ]
+        },
+        {
+            word: "多謝",
+            meaning: [ "thank you (for gifts) " ],
+            pronunciation: [ {ipa: "tɔː˥˥ tsɛː˧˧", where: "Hong Kong"} ]
+        },
+        {
+            word: "唔該",
+            meaning: [ "thank you (for services rendered)" ],
+            pronunciation: [ {ipa: "m̩˨˩ kɔːi˥˥", where: "Hong Kong"} ]
+        },
+        {
+            word: "對唔住",
+            meaning: [ "sorry" ],
+            pronunciation: [ {ipa: "dɵy˧˧ m̩˨˩ tsyː˨˨", where: "Hong Kong"} ]
+        },
+        {
+            word: "呢個",
+            meaning: [ "this one" ],
+            pronunciation: [
+                {ipa: "niː˥˥ kɔː˧˧", where: "Hong Kong"},
+                {ipa: "nei˥˥ kɔː˧˧", where: "Hong Kong"}
+            ]
+        },
+        {
+            word: "嗰個",
+            meaning: [ "that one" ],
+            pronunciation: [ {ipa: "kɔː˨˥ kɔː˧˧", where: "Hong Kong"} ]
+        },
+        {
+            word: "有幾多個呀",
+            meaning: [ "how many? (ask for quantity) " ],
+            pronunciation: [ {ipa: "jɐu˨˧ kei˨˥ tɔː˥˥ kɔː˧˧ ɑː˧˧", where: "Hong Kong"} ]
+        },
+        {
+            word: "幾多錢呀",
+            meaning: [ "how much? (ask for amount of money) " ],
+            pronunciation: [ {ipa: "kei˨˥ tɔː˥˥ ts̚in˨˥ ɑː˧˧", where: "Hong Kong"} ]
+        },
+        {
+            word: "啱",
+            meaning: [ "correct/right " ],
+            pronunciation: [ {ipa: "a:m˥˥", where: "Hong Kong"} ]
+        },
+        {
+            word: "唔啱",
+            meaning: [ "incorrect/wrong " ],
+            pronunciation: [ {ipa: "m̩˨˩ a:m˥˥", where: "Hong Kong"} ]
+        },
+        {
+            word: "我唔明",
+            meaning: [ "I don’t understand " ],
+            pronunciation: [ {ipa: "ŋɔː˨˧ m̩˨˩ mɪŋ˨˩", where: "Hong Kong"} ]
+        },
+        {
+            word: "洗手間喺邊度呀？",
+            meaning: [ "Where's the washroom (toilet, lavatory)? " ],
+            pronunciation: [ {ipa: "sɐi˨˥ sɐu˨˥ kɑːn˥ hɐi˨˥ piːn˥ tou˨˨ ɑː˧˧", where: "Hong Kong"} ]
+        }
+    ]
+}

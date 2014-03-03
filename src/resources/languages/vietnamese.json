@@ -1,0 +1,17 @@
+{
+    words: [
+        {
+            word: "bánh",
+            meaning: [
+                "any sweet, salty, or savory food prepared from flour (especially rice flour) or pressed grains (such as glutinous rice) and cooked by steaming, baking, frying, deep-frying, or boiling; a pastry, cake, bread, dumpling, noodle, wafer, or pudding"
+            ],
+            pronunciation: [
+                {ipa: "ɓaʲŋ˧˥", where: "Hanoi"},
+                {ipa: "ɓaʲŋ˩˩", where: "Vinh, Thanh Chương"},
+                {ipa: "ɓa̰ʲŋ˩˧", where: "Hà Tĩnh"},
+                {ipa: "ɓa̰n˩˧", where: "hué"},
+                {ipa: "ɓan˧˥", where: "Ho Chi Minh City"}
+            ]
+        }
+    ]
+}

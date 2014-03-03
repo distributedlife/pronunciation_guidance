@@ -1,0 +1,178 @@
+{
+    words: [
+        {
+            word: "你好",
+            meaning: [ "hello" ],
+            pronunciation: [ {ipa: "nei˨˧ hoʊ˨˥", where: "Hong Kong"} ]
+        },
+        {
+            word: "再見",
+            meaning: [ "good-bye " ],
+            pronunciation: [ {ipa: "tsɔːi˧˧ kiːn˧˧", where: "Hong Kong"} ]
+        },
+        {
+        word: "服務員",
+        meaning: ["waiter; waitress; server; clerk; porter; valet"],
+        pronunciation: [
+        	{ipa: "fu˧˥ u˥˩ y̯ɛn˧˥", where: "Standard Chinese", other: "fú wù yuán"},
+        	{ipa: "fu˧˥ u˧ y̯ɛ˧˥", where: "Standard Chinese, toneless", other: "fú wù yuán"},
+        	{ipa: "fu˧˥ u˥˩ ɥɑɻ˧˥", where: "Beijing", other: "fú wù yuán"}
+        ]
+        },
+        {
+            word: "菜單",
+            meaning: ["menu (a selection of dishes)"],
+            pronunciation: [{ipa: "tsʰai˥˩ tan˥˥", where: "Standard Chinese", other: "cài dān"}]
+        },
+        {
+            word: "這個",
+            meaning: ["this; this one"],
+            pronunciation: [{ipa: "ʈʂɤ˥˩ kə", where: "Standard Chinese", other: "zhè ge"}]
+        },
+        {
+            word: "多少钱",
+            meaning: ["how much (does it cost)?"],
+            pronunciation: [{ipa: "tuo˥˥ ʂau˨˩ tɕʰiɛn˧˥", where: "Standard Chinese", other: "duō shǎo qián"}]
+        },
+        {
+            word: "我吃素",
+            meaning: ["i am vegetarian"],
+            pronunciation: [{ipa: "uo˨˩ ʈʂʰʅ˥˥ su˥˩", where: "Standard Chinese", other: "wǒ chī sù"}]
+        },
+        {
+            word: "肉",
+            meaning: ["meat"],
+            pronunciation: [{ipa: "ʐou˥˩", where: "Standard Chinese", other: "ròu"}]
+        },
+        {
+            word: "鸡肉",
+            meaning: ["chicken"],
+            pronunciation: [{ipa: "tɕi˥˥ ʐou˥˩", where: "Standard Chinese", other: "jī ròu"}]
+        },
+        {
+            word: "牛肉",
+            meaning: ["beef"],
+            pronunciation: [{ipa: "niəu˧˥ ʐou˥˩", where: "Standard Chinese", other: "niú ròu"}]
+        },
+        {
+            word: "猪肉",
+            meaning: ["pork"],
+            pronunciation: [{ipa: "ʈʂu˥˥ ʐou˥˩", where: "Standard Chinese", other: "zhū ròu"}]
+        },
+        {
+            word: "羊肉",
+            meaning: ["mutton"],
+            pronunciation: [{ipa: "iɑŋ˧˥ ʐou˥˩", where: "Standard Chinese", other: "yáng ròu"}]
+        },
+        {
+            word: "海鲜",
+            meaning: ["seafood"],
+            pronunciation: [{ipa: "xai˨˩ ɕiɛn˥˥", where: "Standard Chinese", other: "hǎi xiān"}]
+        },
+        {
+            word: "鱼",
+            meaning: ["fish"],
+            pronunciation: [{ipa: "y˧˥", where: "Standard Chinese", other: "yú"}]
+        },
+        {
+            word: "鸡蛋",
+            meaning: ["egg"],
+            pronunciation: [{ipa: "tɕi˥˥ tan˥˩", where: "Standard Chinese", other: "jī dàn"}]
+        },
+        {
+            word: "豆腐",
+            meaning: ["tofu"],
+            pronunciation: [{ipa: "tou˥˩ fu", where: "Standard Chinese", other: "dòu fu"}]
+        },
+        {
+            word: "水餃",
+            meaning: ["dumplings"],
+            pronunciation: [{ipa: "ʂuei˧˥ tɕiau˨˩˦", where: "Standard Chinese", other: "shuǐ jiǎo"}]
+        },
+        {
+            word: "饅頭",
+            meaning: ["sticky buns"],
+            pronunciation: [{ipa: "man˧˥ tʰou", where: "Standard Chinese", other: "mán tou"}]
+        },
+        {
+            word: "包子",
+            meaning: ["steamed stuffed bun"],
+            pronunciation: [{ipa: "pau˥˥ tsɿ", where: "Standard Chinese", other: "bāo zi"}]
+        },
+        {
+            word: "馄饨",
+            meaning: ["wonton"],
+            pronunciation: [{ipa: "xuən˥˥ tʰuən˧˥", where: "Standard Chinese", other: "hún tún"}]
+        },
+        {
+            word: "汤",
+            meaning: ["soup"],
+            pronunciation: [{ipa: "tʰaŋ˥˥", where: "Standard Chinese", other: "tāng"}]
+        },
+        {
+            word: "馒头",
+            meaning: ["plain steamed bun"],
+            pronunciation: [{ipa: "man˧˥ tʰou", where: "Standard Chinese", other: "mán tou"}]
+        },
+        {
+            word: "炒麵",
+            meaning: ["fried noodles"],
+            pronunciation: [{ipa: "ʈʂʰau˨˩ miɛn˥˩", where: "Standard Chinese", other: "chǎo miàn"}]
+        },
+        {
+            word: "陽春麵",
+            meaning: ["plain noodles"],
+            pronunciation: [{ipa: "iɑŋ˧˥ ʈʂʰuən˥˥ miɛn˥˩", where: "Standard Chinese", other: "yáng chūn miàn"}]
+        },
+        {
+            word: "炒米粉",
+            meaning: ["fried rice noodles"],
+            pronunciation: [{ipa: "ʈʂʰau˨˩˦ mi˧˥ fən˨˩˦", where: "Standard Chinese", other: "chǎo mǐ fěn"}]
+        },
+        {
+            word: "米饭",
+            meaning: ["rice"],
+            pronunciation: [{ipa: "mi˨˩ fan˥˩", where: "Standard Chinese", other: "mǐ fàn"}]
+        },
+        {
+            word: "炒饭",
+            meaning: ["fried rice"],
+            pronunciation: [{ipa: "ʈʂʰau˨˩ fan˥˩", where: "Standard Chinese", other: "chǎo fàn"}]
+        },
+        {
+            word: "蒸饭",
+            meaning: ["steamed rice"],
+            pronunciation: [{ipa: "ʈʂəŋ˥˥ fan˥˩", where: "Standard Chinese", other: "zhēng fàn"}]
+        },
+        {
+            word: "酸辣湯",
+            meaning: ["hot and sour soup"],
+            pronunciation: [{ipa: "suan˥˥ la˥˩ tʰaŋ˥˥", where: "Standard Chinese", other: "suān là tāng"}]
+        },
+        {
+            word: "啤酒",
+            meaning: ["beer"],
+            pronunciation: [{ipa: "pʰi˧˥ tɕiəu˨˩˦", where: "Standard Chinese", other: "pí jiǔ"}]
+        },
+        {
+            word: "干杯",
+            meaning: ["cheers!"],
+            pronunciation: [{ipa: "kan˥˥ pei˥˥", where: "Standard Chinese", other: "gān bēi"}]
+        },
+        {
+            word: "果汁",
+            meaning: ["fruit juice"],
+            pronunciation: [{ipa: "kuo˨˩ ʈʂʅ˥˥", where: "Standard Chinese", other: "guǒ zhī"}]
+        },
+        {
+            word: "咖啡",
+            meaning: ["coffee"],
+            pronunciation: [{ipa: "kʰa˥˥ fei˥˥", where: "Standard Chinese", other: "kā fēi"}]
+        },
+        {
+            word: "茶",
+            meaning: ["tea"],
+            pronunciation: [{ipa: "ʈʂʰa˧˥", where: "Standard Chinese", other: "chá"}]
+        }
+    ]
+}

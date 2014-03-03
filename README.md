@@ -1,0 +1,1 @@
+all example words are in Received pronuncation, no other english dialects are allowed. Other languages are ok but that's only because english doesn't have such sounds. lame. Depends on: commons-lang, commons-io and json20131198
